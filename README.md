@@ -28,9 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop Version: [Screenshot]('./public/images/Firefox_Screenshot_2023-01-20T17-11-39.820Z.png')
+Desktop Version: ![Screenshot]('./public/images/Firefox_Screenshot_2023-01-20T17-11-39.820Z.png')
 
-Mobile Version(375px width): [Screenshot]('./public/images/Firefox_Screenshot_2023-01-20T18-13-24.310Z.png')
+Mobile Version(375px width): ![Screenshot]('./public/images/Firefox_Screenshot_2023-01-20T18-13-24.310Z.png')
 
 ### Links
 - Solution URL: [Social Media Dashboard](https://bradwellc.github.io/FEM_Social-Media-Dashboard/)
